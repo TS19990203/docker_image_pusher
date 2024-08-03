@@ -1,2 +1,2 @@
-konajdk/konajdk:8-tlinux
-konajdk/konajdk:11-tlinux
+11-standard-ga-ubuntu
+11-standard-ga-centos
