@@ -1,1 +1,2 @@
-rabbitmq:3.8-management
+bellsoft/liberica-openjdk-debian:8.0.11-cd
+bellsoft/liberica-openjdk-debian:11.0.11-cd
