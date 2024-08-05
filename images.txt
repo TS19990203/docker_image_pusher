@@ -1,3 +1,1 @@
-dragonwell-registry.cn-hangzhou.cr.aliyuncs.com/dragonwell/dragonwell:11-standard-ga-ubuntu
-dragonwell-registry.cn-hangzhou.cr.aliyuncs.com/dragonwell/dragonwell:11-standard-ga-centos
-
+zhaojun1998/zfile
