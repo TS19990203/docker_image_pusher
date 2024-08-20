@@ -1,1 +1,1 @@
-rabbitmq:3.13-management
+rabbitmq:3.9.1-management
