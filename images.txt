@@ -1,1 +1,1 @@
-mycat-web
+mycat/mycat-web:latest
