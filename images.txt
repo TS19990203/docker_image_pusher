@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/zhengqing/mycat-web
+mycat/mycat:1.6
