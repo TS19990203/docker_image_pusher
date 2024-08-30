@@ -1,1 +1,1 @@
-mycat:1.6.7.6
+mysql:latest
