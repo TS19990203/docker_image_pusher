@@ -1,3 +1,1 @@
-redis:latest
 influxdb:latest
-minio:latest
