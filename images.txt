@@ -1,1 +1,1 @@
-eclipse-temurin:17-jre
+ bellsoft/liberica-openjdk-debian:21.0.3-cds
