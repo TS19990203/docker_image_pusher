@@ -1,1 +1,1 @@
-influxdb:latest
+ eclipse-temurin:21-jre
