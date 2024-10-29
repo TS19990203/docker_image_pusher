@@ -1,1 +1,7 @@
-mysql:8.4
+grafana/loki:3.1.0
+grafana/alloy:latest
+minio/minio
+grafana/grafana:latest
+grafana/loki:3.1.0
+nginx:latest
+mingrammer/flog
