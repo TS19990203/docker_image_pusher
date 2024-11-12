@@ -1,2 +1,6 @@
-konajdk/konajdk:11-tlinux-11.0.17
-konajdk/konajdk:11-tlinux
+bellsoft/liberica-openjdk-debian:8u412-cds
+bellsoft/liberica-openjdk-debian:17.0.10-cds
+bellsoft/liberica-openjdk-debian:11.0.22-cds
+bellsoft/liberica-openjdk-debian:21.0.1-cds
+bellsoft/liberica-openjdk-debian:11.0.21-cds
+bellsoft/liberica-openjdk-debian:8u392-cds
