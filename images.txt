@@ -1,6 +1,3 @@
-bellsoft/liberica-openjdk-debian:8u412-cds
-bellsoft/liberica-openjdk-debian:17.0.10-cds
-bellsoft/liberica-openjdk-debian:11.0.22-cds
-bellsoft/liberica-openjdk-debian:21.0.1-cds
-bellsoft/liberica-openjdk-debian:11.0.21-cds
-bellsoft/liberica-openjdk-debian:8u392-cds
+eclipse-temurin:8u432-b06-jre-windowsservercore-ltsc2022
+eclipse-temurin:8u432-b06-jre-windowsservercore-1809
+eclipse-temurin:8u432-b06-jdk-windowsservercore-ltsc2022
