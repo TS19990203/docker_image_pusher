@@ -1,3 +1,2 @@
-alibabadragonwell/dragonwell:17-standard-ga-centos
-alibabadragonwell/dragonwell:17-centos
-alibabadragonwell/dragonwell:21-standard-ga-centos
+konajdk/konajdk:11-tlinux-11.0.17
+konajdk/konajdk:11-tlinux
