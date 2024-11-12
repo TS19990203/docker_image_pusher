@@ -1,1 +1,1 @@
-nextcloud
+mariadb:10.5
