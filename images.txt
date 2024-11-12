@@ -1,1 +1,1 @@
---platform=windows/amd64 eclipse-temurin:8-windowsservercore-ltsc2022
+minio/mc:RELEASE.2024-08-17T11-33-50Z
