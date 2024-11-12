@@ -1,3 +1,1 @@
-eclipse-temurin:8u432-b06-jre-windowsservercore-ltsc2022
-eclipse-temurin:8u432-b06-jre-windowsservercore-1809
-eclipse-temurin:8u432-b06-jdk-windowsservercore-ltsc2022
+eclipse-temurin:8-windowsservercore-ltsc2022
