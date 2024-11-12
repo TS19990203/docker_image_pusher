@@ -1,1 +1,1 @@
-eclipse-temurin:8-windowsservercore-ltsc2022
+eclipse-temurin:8-windowsservercore-ltsc2022/x86_64 sentry
