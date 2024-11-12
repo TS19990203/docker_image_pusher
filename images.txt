@@ -1,1 +1,1 @@
-minio/mc:RELEASE.2024-08-17T11-33-50Z
+dockurr/windows
