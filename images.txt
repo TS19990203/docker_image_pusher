@@ -1,2 +1,3 @@
-eclipse-temurin:11-jre-centos7
-eclipse-temurin:11.0.17_8-jdk-centos7
+alibabadragonwell/dragonwell:17-standard-ga-centos
+alibabadragonwell/dragonwell:17-centos
+alibabadragonwell/dragonwell:21-standard-ga-centos
