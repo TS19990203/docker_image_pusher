@@ -1,2 +1,2 @@
-mysql:latest
-redis:latest
+11-jre-centos7
+11.0.17_8-jdk-centos7
