@@ -1,1 +1,1 @@
--platform=linux/x86_64 eclipse-temurin:8-windowsservercore-ltsc2022
+--platform=linux/x86_64 eclipse-temurin:8-windowsservercore-ltsc2022
