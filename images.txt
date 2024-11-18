@@ -1,3 +1,1 @@
-findepi/graalvm:java8-native
-findepi/graalvm:jav11-native
-findepi/graalvm:java17-native
+unclecode/crawl4ai:all
