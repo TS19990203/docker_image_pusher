@@ -1,1 +1,1 @@
-unclecode/crawl4ai:all
+unclecode/crawl4ai:basic
