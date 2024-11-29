@@ -1,1 +1,1 @@
-alpine:3.20.3
+redislabs/rejson:2.6.13
