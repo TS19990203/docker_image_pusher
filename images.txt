@@ -1,1 +1,1 @@
-postgres:14.2
+a6053537/portainer-ce
