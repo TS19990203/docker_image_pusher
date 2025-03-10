@@ -1,1 +1,1 @@
---platform linux/arm64=alpine:3.16.0
+portainer/portainer:latest
