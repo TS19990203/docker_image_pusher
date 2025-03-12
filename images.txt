@@ -1,1 +1,1 @@
-portainer/portainer:latest
+moelin/1panel:latest
